@@ -1,0 +1,29 @@
+.MainContainer {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.BookInfoContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.BookInfoItem {
+  padding: 20px 20px;
+  width: 70%;
+}
+.BookInfoCover {
+  width: 25%;
+  padding: 20px 0;
+}
+.AboutBook {
+  width: 100%;
+}
+.AboutBookTitle {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.AboutBookInfo {
+  font-size: 22px;
+  text-align: justify;
+}

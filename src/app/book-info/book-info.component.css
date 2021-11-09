@@ -1,0 +1,26 @@
+.BookInfoTitle {
+  font-size: 40px;
+  font-weight: bold;
+  margin: 20px 0;
+}
+.BookInfoAuthor {
+  font-size: 34px;
+  font-weight: bold;
+}
+.BookInfoPublishingHouse {
+  font-size: 24px;
+  font-weight: 700;
+}
+.BookInfoPublishingYear {
+  font-size: 24px;
+  font-weight: 700;
+}
+.BookInfoNumberOfPages {
+  font-size: 24px;
+  font-weight: 700;
+}
+.BookInfoItemDescription {
+  font-size: 24px;
+  color: grey;
+  font-weight: bold;
+}

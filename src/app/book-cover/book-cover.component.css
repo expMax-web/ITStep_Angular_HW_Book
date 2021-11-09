@@ -1,0 +1,8 @@
+.BookCoverContainer {
+  width: 300px;
+  height: 500px;
+  overflow: hidden;
+}
+.BookCover {
+  width: 100%;
+}

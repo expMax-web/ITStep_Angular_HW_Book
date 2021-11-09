@@ -1,0 +1,8 @@
+.AuthorAvatarContainer {
+  width: 200px;
+  height: 300px;
+  overflow: hidden;
+}
+.AuthorAvatar {
+  width: 100%;
+}
